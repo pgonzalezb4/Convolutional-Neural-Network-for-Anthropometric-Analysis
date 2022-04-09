@@ -3,4 +3,4 @@ Convolutional Neural Network to classify eye images as 'male' or 'female', indic
 
 Developed using Tensorflow Keras.
 
-(Data is compressed into **eye_gender_data.rar**, in order to import and use it within the Jupyter notebook it should be extracted first).
+(Data is compressed into **eye_gender_data.rar**, in order to import it and use it within the Jupyter notebook it should be extracted first).
