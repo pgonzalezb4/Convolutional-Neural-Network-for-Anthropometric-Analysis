@@ -3,4 +3,4 @@ Convolutional Neural Network d eveloped using Tensorflow Keras to classify eye i
 
 Score received on https://dphi.tech/ submission: **91.06290672451193**
 
-Created as a final project for the 5-Week Deep Learning Bootcamp produced by https://dphi.tech/
+Developed as a graded final challenge for the 5-Week Deep Learning Bootcamp produced by https://dphi.tech/
